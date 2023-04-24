@@ -1,4 +1,4 @@
-<h1 align="center">Hi everybody, I'm <a href="https://daniilshat.ru/" target="_blank">Nadia!</a> 
+<h1 align="center">Hi everybody, I'm <a href="https://github.com/emesheva/" target="_blank">Nadia!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data analyst from Yandex Praktikum</h3>
 <p>I'm new in data analytics, but I have an IT-education and background with understanding of industrial processes across multiple industries. I'm seeking opportunities to collaborate with companies that are committed to innovation in data analysis.</p>
@@ -17,7 +17,7 @@
 
 | Name                                      | Projects |
 :-------------------------------------------|:---------:
-|[Yandex-practikum-projects](https://github.com/emesheva/yandex-praktikum-projects/)| 12 |
+|[Yandex-practikum-projects ✨](https://github.com/emesheva/yandex-praktikum-projects/)| 12 |
 
 <i>I'm in LinkedIn:</i>
 <div id="badges">
