@@ -17,7 +17,7 @@
 
 | Name                                      | Projects |
 :-------------------------------------------|:---------:
-|[Yandex-practikum-projects ✨](https://github.com/emesheva/yandex-praktikum-projects/)| 12 |
+|[Yandex-practikum-projects ✨](https://github.com/emesheva/yandex-praktikum-projects/)| 11 |
 
 <i>I'm in LinkedIn:</i>
 <div id="badges">
