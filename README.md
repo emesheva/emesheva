@@ -26,7 +26,11 @@
   </a>
  </div>
  <i>Telegram: @emesheva</i>
-
+<div class="social-icons">
+  <a href="[https://www.facebook.com/yourusername](https://telegram.org/emesheva)" target="_blank">
+    <img png="[path/to/facebook-icon.svg](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_19-telegram-512.png)" alt="Telegram Icon"> 
+  </a>
+  </div>
 <!--
 **emesheva/emesheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
