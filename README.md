@@ -19,18 +19,17 @@
 :-------------------------------------------|:---------:
 |[Yandex-practikum-projects ✨](https://github.com/emesheva/yandex-praktikum-projects/)| 11 |
 
-<i>I'm in LinkedIn:</i>
+<i>Contact me:</i>
 <div id="badges">
   <a href="https://www.linkedin.com/in/nadia-emesheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
- <i>Telegram: @emesheva</i>
-<div class="social-icons">
-  <a href="[https://www.facebook.com/yourusername](https://telegram.org/emesheva)" target="_blank">
-    <img png="[path/to/facebook-icon.svg](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_19-telegram-512.png)" alt="Telegram Icon"> 
-  </a>
-  </div>
+<div id="badges">
+  <a href="https://t.me/emesheva/">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue"/> 
+   </a>
+ </div>   
 <!--
 **emesheva/emesheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
